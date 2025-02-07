@@ -14,4 +14,4 @@ def f(n):
             s[seat - 1] = 1
     return s
 
-print([0, 0] in [0, 0])
+print([0, 0] in [0, 0, 1])
